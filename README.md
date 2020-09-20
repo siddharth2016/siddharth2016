@@ -17,16 +17,16 @@
 <br />
 <br />
 
-Hey there, I am Siddharth Chandra, a Software Engineer at Bank Of America and a Full Stack Developer hooked on <img alt="Python Icon" width="20px" src="https://github.com/Siddharth2016/Siddharth2016/blob/master/python.gif?raw=true" />
+Namaste ! I am Siddharth Chandra, a Software Engineer at Bank Of America and a Full Stack Developer hooked on <img alt="Python Icon" width="20px" src="https://github.com/Siddharth2016/Siddharth2016/blob/master/python.gif?raw=true" />
 
 
 #### To Learn before 2020 ENDS:
 
-- [x] [Scalable Web Applications with Python by Hara Gopal](https://www.udemy.com/course/flask-is-fun-and-easy-from-basics-to-building-scalable-apps/)
-- [ ] [Complete Machine Learning and Data Science Course by Daniel](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/)
-- [ ] [Complete Web Developer Course by Andrei](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)
-- [ ] [Complete SQl + Database Course by Andrei](https://www.udemy.com/course/complete-sql-databases-bootcamp-zero-to-mastery/)
-- [ ] [JavaScript Advanced Concepts by Andrei](https://www.udemy.com/course/advanced-javascript-concepts/)
+- [x] [Scalable Web Applications with Python](https://www.udemy.com/course/flask-is-fun-and-easy-from-basics-to-building-scalable-apps/)
+- [ ] [Machine Learning and Data Science](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/)
+- [ ] [Web Development](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)
+- [ ] [SQl + Database Development](https://www.udemy.com/course/complete-sql-databases-bootcamp-zero-to-mastery/)
+- [ ] [JavaScript Advanced Concepts](https://www.udemy.com/course/advanced-javascript-concepts/)
 
 #### To Read before 2020 ENDS:
 

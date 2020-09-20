@@ -38,4 +38,4 @@ Namaste ! I am Siddharth Chandra, a Software Engineer at Bank Of America and a F
 
 <br />
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Siddharth2016&theme=vision-friendly-dark&show_icons=true&count_private=true" alt="Siddharth2016" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Siddharth2016&theme=vision-friendly-dark&show_icons=true&count_private=true" alt="Siddharth2016" />

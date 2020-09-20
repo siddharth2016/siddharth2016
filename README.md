@@ -17,7 +17,7 @@
 <br />
 <br />
 
-Hey there, I am Siddharth Chandra, a Software Engineer at <img alt="BOfA Icon" width="22px" src="https://icons.iconarchive.com/icons/chrisbanks2/cold-fusion-hd/96/bank-of-america-icon.png" /> and a Full Stack Developer hooked on <img alt="Python Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/python.svg" />
+Hey there, I am Siddharth Chandra, a Software Engineer at Bank Of America and a Full Stack Developer hooked on <img alt="Python Icon" width="20px" src="https://github.com/Siddharth2016/Siddharth2016/blob/master/python.gif?raw=true" />
 
 
 #### To Learn before 2020 ENDS:
@@ -38,4 +38,4 @@ Hey there, I am Siddharth Chandra, a Software Engineer at <img alt="BOfA Icon" w
 
 <br />
 
-<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=Siddharth2016&theme=vision-friendly-dark&show_icons=true&count_private=true" alt="Siddharth2016" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Siddharth2016&theme=vision-friendly-dark&show_icons=true&count_private=true" alt="Siddharth2016" />

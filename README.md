@@ -12,7 +12,7 @@
 <a href="https://siddharth2016.github.io/">
   <img align="left" alt="Siddharth's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/github.svg" />
 </a>
-<img align="right" alt="Visitors Badge" src="https://visitor-badge.glitch.me/badge?page_id=Siddharth2016" />
+<img align="right" alt="Visitors Badge" src="https://visitor-badge.glitch.me/badge?page_id=Siddharth2016.Siddharth2016" />
 
 <br />
 <br />

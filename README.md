@@ -38,5 +38,5 @@ Hey there, I am Siddharth Chandra, a Software Engineer at <img alt="BOfA Icon" w
 
 <br />
 
-<img align="left" alt="Coding GIF" src="https://github.com/Siddharth2016/Siddharth2016/blob/master/coding.gif?raw=true" width="240" height="240" />
+<img align="left" alt="Coding GIF" src="https://github.com/Siddharth2016/Siddharth2016/blob/master/coding.gif?raw=true" width="280" height="220" />
 <p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=Siddharth2016&theme=vision-friendly-dark&show_icons=true&count_private=true" alt="Siddharth2016" />

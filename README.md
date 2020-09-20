@@ -17,6 +17,5 @@
 
 Hi, I am Siddharth Chandra, Software Engineer at <img alt="BOfA Icon" width="22px" src="https://icons.iconarchive.com/icons/chrisbanks2/cold-fusion-hd/96/bank-of-america-icon.png"/>,  a Full Stack Developer hooked on <img alt="Python Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/python.svg" />
 
-<summary>📈 My GitHub Stats</summary>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=siddharth2016&theme=vision-friendly-dark&show_icons=true&count_private=true" alt="Siddharth2016" />

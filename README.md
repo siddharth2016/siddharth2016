@@ -14,3 +14,6 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=siddharth2016.siddharth-chandra)
+
+Hi, I am Siddharth Chandra, Software Engineer at Bank Of America <img align="left" alt="BOfA Icon" width="22px" src="https://icons.iconarchive.com/icons/chrisbanks2/cold-fusion-hd/96/bank-of-america-icon.png"/>, a Full Stack Developer hooked on Python <img align="left", alt="Python Icon" href="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/python.svg">
+

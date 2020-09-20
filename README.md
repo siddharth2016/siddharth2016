@@ -17,7 +17,7 @@
 <br />
 <br />
 
-Namaste ! I am Siddharth Chandra, a Software Engineer at Bank Of America and a Full Stack Developer hooked on <img alt="Python Icon" width="20px" src="https://github.com/Siddharth2016/Siddharth2016/blob/master/python.gif?raw=true" />
+Namaste ! I am a Software Engineer at Bank Of America and a Full Stack Developer hooked on <img alt="Python Icon" width="20px" src="https://github.com/Siddharth2016/Siddharth2016/blob/master/python.gif?raw=true" />
 
 
 #### To Learn before 2020 ENDS:

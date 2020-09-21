@@ -19,6 +19,8 @@
 
 Namaste :pray: I am a Software Engineer at Bank Of America and a Full Stack Developer hooked on <img alt="Python Icon" width="20px" src="https://github.com/Siddharth2016/Siddharth2016/blob/master/python.gif?raw=true" />
 
+Besides programming, I enjoy reading mythology, finance related books and manga.
+
 
 #### ✍ [My Learning List](https://github.com/Siddharth2016/my-learning#my-learning) 
 

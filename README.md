@@ -20,7 +20,7 @@
 Namaste :pray: I am a Software Engineer at Bank Of America and a Full Stack Developer hooked on <img alt="Python Icon" width="20px" src="https://github.com/Siddharth2016/Siddharth2016/blob/master/python.gif?raw=true" />
 
 
-#### To Learn before 2020 ENDS:
+#### To Learn before 2020 ENDS
 
 - [x] [Scalable Web Applications with Python](https://www.udemy.com/course/flask-is-fun-and-easy-from-basics-to-building-scalable-apps/)
 - [ ] [Machine Learning and Data Science](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/)
@@ -28,7 +28,7 @@ Namaste :pray: I am a Software Engineer at Bank Of America and a Full Stack Deve
 - [ ] [SQl + Database Development](https://www.udemy.com/course/complete-sql-databases-bootcamp-zero-to-mastery/)
 - [ ] [JavaScript Advanced Concepts](https://www.udemy.com/course/advanced-javascript-concepts/)
 
-#### To Read before 2020 ENDS:
+#### To Read before 2020 ENDS
 
 - [x] [Dharmayoddha Kalki: Avatar of Vishnu (Book 1)](https://amzn.to/32MgALv)
 - [ ] [Satyayoddha Kalki: Eye of Brahma (Book 2)](https://amzn.to/2HiVBYn)
@@ -36,6 +36,7 @@ Namaste :pray: I am a Software Engineer at Bank Of America and a Full Stack Deve
 - [ ] [World’s Greatest Books For Personal Growth & Wealth: Perfect Motivational Set](https://amzn.to/2RI5eBP)
 - [ ] [Investonomy: The Stock Market Guide That Makes You Rich](https://amzn.to/2ZOrAWP)
 
+#### 📊 My Weekly Stats
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
@@ -44,4 +45,4 @@ No Activity tracked this Week
 
 <br />
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=Siddharth2016&theme=vision-friendly-dark&show_icons=true&count_private=true" alt="Siddharth2016" />
+<p><img src="https://github-readme-stats.vercel.app/api?username=Siddharth2016&theme=vision-friendly-dark&show_icons=true&count_private=true" alt="Siddharth2016" /></p>

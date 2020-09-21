@@ -36,6 +36,9 @@ Namaste :pray: I am a Software Engineer at Bank Of America and a Full Stack Deve
 - [ ] [World’s Greatest Books For Personal Growth & Wealth: Perfect Motivational Set](https://amzn.to/2RI5eBP)
 - [ ] [Investonomy: The Stock Market Guide That Makes You Rich](https://amzn.to/2ZOrAWP)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <br />
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=Siddharth2016&theme=vision-friendly-dark&show_icons=true&count_private=true" alt="Siddharth2016" />

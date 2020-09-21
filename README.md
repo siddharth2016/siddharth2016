@@ -37,6 +37,9 @@ Namaste :pray: I am a Software Engineer at Bank Of America and a Full Stack Deve
 - [ ] [Investonomy: The Stock Market Guide That Makes You Rich](https://amzn.to/2ZOrAWP)
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 <br />

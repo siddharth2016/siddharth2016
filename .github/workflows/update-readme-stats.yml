@@ -1,0 +1,16 @@
+name: Waka Time Readme
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs every 12 hrs, 12am and 12pm
+    - cron: "0 */12 * * *"
+
+jobs:
+  update-readme:
+    name: Update Profile README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}

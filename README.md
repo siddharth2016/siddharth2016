@@ -1,16 +1,16 @@
 ## Namaste :pray:
 
 <a href="https://www.linkedin.com/in/siddharth-chandra1/">
-  <img align="left" alt="Siddharth's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Siddharth's LinkedIn" width="22px" src="https://raw.githubusercontent.com/Siddharth2016/Siddharth2016/master/images/linkedin.svg" />
 </a>
-<a href="https://www.hackerearth.com/@chandraji">
-  <img align="left" alt="Siddharth's HackerEarth" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/hackerearth.svg" />
+<a href="https://doi.org/10.1080/1206212X.2020.1759857">
+  <img align="left" alt="Co-Authored Research" width="22px" src="https://raw.githubusercontent.com/Siddharth2016/Siddharth2016/master/images/research.svg" />
 </a>
 <a href="https://www.hackerrank.com/siddharthchandr1">
-  <img align="left" alt="Siddharth's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/hackerrank.svg" />
+  <img align="left" alt="Siddharth's HackerRank" width="22px" src="https://raw.githubusercontent.com/Siddharth2016/Siddharth2016/master/images/hackerrank.jpg" />
 </a>
 <a href="https://siddharth2016.github.io/">
-  <img align="left" alt="Siddharth's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/github.svg" />
+  <img align="left" alt="Siddharth's GitHub" width="22px" src="https://raw.githubusercontent.com/Siddharth2016/Siddharth2016/master/images/github.jpg" />
 </a>
 
 <br />

@@ -39,8 +39,11 @@ Other      1 min           ▒░░░░░░░░░░░░░░░░�
 <br />
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth2016&layout=compact&langs_count=16&theme=vision-friendly-dark">
-  <img align="center" alt="Language Stats" height="200" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth2016&layout=compact&langs_count=16&theme=vision-friendly-dark" />
+  <img align="left" alt="Language Stats" height="200" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth2016&layout=compact&langs_count=16&theme=vision-friendly-dark" />
 </a>
+
+<br />
+
 <a href="https://github-readme-stats.vercel.app/api?username=Siddharth2016&theme=vision-friendly-dark&show_icons=true&count_private=true">
-  <img align="center" alt="Github Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=Siddharth2016&theme=vision-friendly-dark&show_icons=true&count_private=true" />
+  <img align="left" alt="Github Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=Siddharth2016&theme=vision-friendly-dark&show_icons=true&count_private=true" />
 </a>

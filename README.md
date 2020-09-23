@@ -12,6 +12,7 @@
 <a href="https://siddharth2016.github.io/">
   <img align="left" alt="Siddharth's GitHub" width="24px" height="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/github.svg" />
 </a>
+<img align="right" width="180px" height="180px" alt="Code Karo" src="https://raw.githubusercontent.com/siddharth2016/siddharth2016/master/images/code_karo.gif">
 
 <br />
 <br />
@@ -20,7 +21,7 @@ Namaste :pray: I am a Software Engineer at Bank Of America and a Full Stack Deve
 
 Besides programming, I enjoy reading mythology, finance related books and manga.
 
-#### ⛄ [Just Staring Open-Source/GitHub ?](https://github.com/siddharth2016/hello-open-source#hello-open-source)
+#### ⛄ [Just Started Contributing to Open Source ?](https://github.com/siddharth2016/hello-open-source#hello-open-source)
 
 #### ✍ [My Learning List](https://github.com/siddharth2016/my-learning#my-learning) 
 

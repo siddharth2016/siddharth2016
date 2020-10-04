@@ -28,10 +28,9 @@ Besides programming, I enjoy reading mythology, finance related books and manga.
 #### 📊 My Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 25 September, 2020 - 02 October, 2020
+Week: 26 September, 2020 - 03 October, 2020
 
-Python     3 hrs 22 mins   ██████████████████████▓░░   90.70 % 
-Markdown   20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+Python   3 hrs 30 mins   █████████████████████████   99.81 % 
 ```
 <!--END_SECTION:waka-->
 

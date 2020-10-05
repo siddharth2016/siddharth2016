@@ -12,3 +12,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: siddharth2016/update-readme-image@main
+        with:
+          IMG_ALT: Code Karo Image

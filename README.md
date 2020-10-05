@@ -12,7 +12,7 @@
 <a href="https://siddharth2016.github.io/">
   <img align="left" alt="Siddharth's GitHub" width="24px" height="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/github.svg" />
 </a>
-<!--START_SECTION:update_image--><img align="right" width="180px" height="180px" alt="Code Karo" src="https://raw.githubusercontent.com/siddharth2016/siddharth2016/master/images/code_karo.gif"><!--END_SECTION:update_image-->
+<!--START_SECTION:update_image--><img align="right" width="180px" height="180px" alt="Code Karo" src="https://raw.githubusercontent.com/siddharth2016/siddharth2016/master/.github/images/image2.gif"><!--END_SECTION:update_image-->
 
 <br />
 <br />

@@ -13,7 +13,7 @@
   <img align="left" alt="Siddharth's GitHub" width="24px" height="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/github.svg" />
 </a>
 <!--START_SECTION:update_image-->
-<img src=https://raw.githubusercontent.com/siddharth2016/siddharth2016/master/.github/images/image4.gif height=180px width=180px align=right alt=Code Karo Image />
+<img src=https://raw.githubusercontent.com/siddharth2016/siddharth2016/master/.github/images/image6.gif height=180px width=180px align=right alt=Code Karo Image />
 <!--END_SECTION:update_image-->
 
 <br />

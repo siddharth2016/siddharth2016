@@ -23,6 +23,9 @@ Namaste :pray: I am a Software Engineer at Bank Of America and a Full Stack Deve
 
 Besides programming, I enjoy reading mythology, finance related books and manga.
 
+<!--STARTS_HERE_QUOTE_README-->
+<!--ENDS_HERE_QUOTE_README-->
+
 #### ⛄ [Hello Open Source](https://github.com/siddharth2016/hello-open-source#hello-open-source)
 
 #### ✍ [My Learning List](https://github.com/siddharth2016/my-learning#my-learning) 

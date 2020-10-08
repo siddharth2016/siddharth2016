@@ -12,9 +12,11 @@
 <a href="https://siddharth2016.github.io/">
   <img align="left" alt="Siddharth's GitHub" width="24px" height="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/github.svg" />
 </a>
+<a href="https://github.com/siddharth2016/update-readme-image">
 <!--START_SECTION:update_image-->
 <img src=https://raw.githubusercontent.com/siddharth2016/siddharth2016/master/.github/images/image6.gif height=180px width=180px align=right alt=Code Karo Image />
 <!--END_SECTION:update_image-->
+</a>
 
 <br />
 <br />
@@ -22,9 +24,10 @@
 Namaste :pray: I am a Software Engineer at Bank Of America and a Full Stack Developer hooked on <img alt="Python Icon" width="20px" src="https://raw.githubusercontent.com/siddharth2016/siddharth2016/master/images/python.gif" />
 
 Besides programming, I enjoy reading mythology, finance related books and manga.
-
+<a href="https://github.com/siddharth2016/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
 <!--ENDS_HERE_QUOTE_README-->
+</a>
 
 #### ⛄ [Hello Open Source](https://github.com/siddharth2016/hello-open-source#hello-open-source)
 

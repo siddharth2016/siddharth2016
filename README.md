@@ -27,7 +27,7 @@ Besides programming, I enjoy reading mythology, finance related books and manga.
 
 <a href="https://github.com/siddharth2016/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“If the code and the comments do not match, possibly both are incorrect.”— Norm Schryer ❞</i>
+<i>❝“In a room full of top software designers, if two agree on the same thing, that’s a majority.”— Bill Curtis ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

@@ -27,7 +27,7 @@ Besides programming, I enjoy reading mythology, finance related books and manga.
 
 <a href="https://github.com/siddharth2016/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Thefirst bugin a computer was adead mothfound shorting a relay in theHarvard Mark II computer in 1947❞</i>
+<i>❝“The best way to predict the future is to implement it.”— David Heinemeier Hansson   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

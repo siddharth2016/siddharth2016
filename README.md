@@ -14,7 +14,7 @@
 </a>
 <a href="https://github.com/siddharth2016/update-readme-image">
 <!--START_SECTION:update_image-->
-<img src=https://raw.githubusercontent.com/siddharth2016/siddharth2016/master/.github/images/image10.png height=180px width=180px align=right alt=Code Karo Image />
+<img src=https://raw.githubusercontent.com/siddharth2016/siddharth2016/master/.github/images/image11.png height=180px width=180px align=right alt=Code Karo Image />
 <!--END_SECTION:update_image-->
 </a>
 

@@ -12,7 +12,7 @@
 <a href="https://siddharth2016.github.io/">
   <img align="left" alt="Siddharth's GitHub" width="24px" height="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/github.svg" />
 </a>
-<a href="https://github.com/siddharth2016/update-readme-image">
+<a href="https://github.com/marketplace/actions/update-image-readme">
 <!--START_SECTION:update_image-->
 <img src=https://raw.githubusercontent.com/siddharth2016/siddharth2016/master/.github/images/image7.gif height=180px width=180px align=right alt=Code Karo Image />
 <!--END_SECTION:update_image-->
@@ -25,7 +25,7 @@ Namaste :pray: I am a Software Engineer at Bank Of America and a Full Stack Deve
 
 Besides programming, I enjoy reading mythology, finance related books and manga.
 
-<a href="https://github.com/siddharth2016/quote-readme">
+<a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝A professional typist types fast and types great amount of words daily. If we measure this as distance, than it will become 12.6 miles a day for the fingers of the typist to cover each day.❞</i>
 <!--ENDS_HERE_QUOTE_README-->

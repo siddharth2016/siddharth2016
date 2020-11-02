@@ -25,6 +25,8 @@ Namaste :pray: I am a Software Engineer at Bank Of America and a Full Stack Deve
 
 Besides programming, I enjoy reading OSFY, mythology, finance related books and manga.
 
+Often Failing, Always Learning ✌
+
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝Sony released a kit that allows PS2s (Linux for PlayStation 2) to be used as a personal computer.❞</i>

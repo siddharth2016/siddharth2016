@@ -38,7 +38,7 @@ Besides programming, I enjoy reading OSFY, mythology, finance related books and 
 #### 📊 My Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 24 October, 2020 - 31 October, 2020
+Week: 25 October, 2020 - 01 November, 2020
 
 Markdown   1 hr 12 mins    ████████████████████████▒   97.70 % 
 ```

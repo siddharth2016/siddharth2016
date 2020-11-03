@@ -40,9 +40,7 @@ Often Failing, Always Learning ✌
 #### 📊 My Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 25 October, 2020 - 01 November, 2020
-
-Markdown   1 hr 12 mins    ████████████████████████▒   97.70 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 

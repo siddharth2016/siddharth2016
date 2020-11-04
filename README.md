@@ -1,13 +1,13 @@
 ## Namaste :pray:
 
 <a href="https://www.linkedin.com/in/siddharth-chandra1/">
-  <img align="left" alt="Siddharth's LinkedIn" width="26px" height="24px" src="https://raw.githubusercontent.com/siddharth2016/siddharth2016/master/images/linkedin_color.png" />
+  <img align="left" alt="Siddharth's LinkedIn" width="24px" height="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linkedin.svg" />
 </a>
 <a href="https://doi.org/10.1080/1206212X.2020.1759857">
   <img align="left" alt="Co-Authored Research" width="24px" height="24px" src="https://raw.githubusercontent.com/siddharth2016/siddharth2016/master/images/research.svg" />
 </a>
 <a href="https://www.hackerrank.com/siddharthchandr1">
-  <img align="left" alt="Siddharth's HackerRank" width="24px" height="24px" src="https://raw.githubusercontent.com/siddharth2016/siddharth2016/master/images/hackerrank.png" />
+  <img align="left" alt="Siddharth's HackerRank" width="24px" height="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/hackerrank.svg" />
 </a>
 <a href="https://siddharth2016.github.io/">
   <img align="left" alt="Siddharth's GitHub" width="24px" height="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/github.svg" />

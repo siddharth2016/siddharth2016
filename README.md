@@ -1,22 +1,22 @@
 ## Namaste :pray:
 
-<a href="https://www.linkedin.com/in/siddharth-chandra1/">
-  <img align="left" alt="Siddharth's LinkedIn" width="24px" height="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linkedin.svg" />
-</a>
 <a href="https://doi.org/10.1080/1206212X.2020.1759857">
-  <img align="left" alt="Co-Authored Research" width="24px" height="24px" src="https://raw.githubusercontent.com/siddharth2016/siddharth2016/master/images/research.svg" />
+  <img src="https://raw.githubusercontent.com/siddharth2016/siddharth2016/master/images/research.svg" alt="Co-Authored Research" width="24px" height="24px">
 </a>
 <a href="https://www.hackerrank.com/siddharthchandr1">
-  <img align="left" alt="Siddharth's HackerRank" width="24px" height="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/hackerrank.svg" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/hackerrank.svg" alt="Siddharth's HackerRank" width="24px" height="24px">
 </a>
 <a href="https://siddharth2016.github.io/">
-  <img align="left" alt="Siddharth's GitHub" width="24px" height="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/github.svg" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/github.svg" alt="Siddharth's GitHub" width="24px" height="24px">
 </a>
 <a href="https://dev.to/siddharth2016">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Siddharth Chandra's DEV Profile" height="25px" width="24px">
 </a>
 <a href="https://twitter.com/CodeKaro_">
   <img src="https://raw.githubusercontent.com/siddharth2016/siddharth2016/master/images/twitter_color.svg" alt="CodeKaro Twitter Account" height="24px" width="24px">
+</a>
+<a href="https://www.linkedin.com/in/siddharth-chandra1/">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linkedin.svg" alt="Siddharth's LinkedIn" width="24px" height="24px">
 </a>
 <a href="https://github.com/marketplace/actions/update-image-readme">
 <!--START_SECTION:update_image-->

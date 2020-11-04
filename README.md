@@ -3,9 +3,6 @@
 <a href="https://doi.org/10.1080/1206212X.2020.1759857">
   <img src="https://raw.githubusercontent.com/siddharth2016/siddharth2016/master/images/research.svg" alt="Co-Authored Research" width="24px" height="24px">
 </a>
-<a href="https://www.hackerrank.com/siddharthchandr1">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/hackerrank.svg" alt="Siddharth's HackerRank" width="25px" height="24px">
-</a>
 <a href="https://siddharth2016.github.io/">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/github.svg" alt="Siddharth's GitHub" width="25px" height="24px">
 </a>
@@ -17,6 +14,12 @@
 </a>
 <a href="https://www.linkedin.com/in/siddharth-chandra1/">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linkedin.svg" alt="Siddharth's LinkedIn" width="24px" height="24px">
+</a>
+<a href="https://www.hackerrank.com/siddharthchandr1">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/hackerrank.svg" alt="Siddharth's HackerRank" width="25px" height="24px">
+</a>
+<a href="https://leetcode.com/chandraji/">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/leetcode.svg" alt="Siddharth's LeetCode" width="25px" height="24px">
 </a>
 <a href="https://github.com/marketplace/actions/update-image-readme">
 <!--START_SECTION:update_image-->

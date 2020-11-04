@@ -1,7 +1,7 @@
 ## Namaste :pray:
 
 <a href="https://www.linkedin.com/in/siddharth-chandra1/">
-  <img align="left" alt="Siddharth's LinkedIn" width="24px" height="24px" src="https://raw.githubusercontent.com/siddharth2016/siddharth2016/master/images/linkedin.svg" />
+  <img align="left" alt="Siddharth's LinkedIn" width="26px" height="24px" src="https://raw.githubusercontent.com/siddharth2016/siddharth2016/master/images/linkedin_color.png" />
 </a>
 <a href="https://doi.org/10.1080/1206212X.2020.1759857">
   <img align="left" alt="Co-Authored Research" width="24px" height="24px" src="https://raw.githubusercontent.com/siddharth2016/siddharth2016/master/images/research.svg" />

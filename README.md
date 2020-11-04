@@ -15,6 +15,9 @@
 <a href="https://dev.to/siddharth2016">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Siddharth Chandra's DEV Profile" height="25px" width="24px">
 </a>
+<a href="https://twitter.com/CodeKaro_">
+  <img src="https://raw.githubusercontent.com/siddharth2016/siddharth2016/master/images/twitter_color.svg" alt="CodeKaro Twitter Account" height="24px" width="24px">
+</a>
 <a href="https://github.com/marketplace/actions/update-image-readme">
 <!--START_SECTION:update_image-->
 <img src=https://raw.githubusercontent.com/siddharth2016/siddharth2016/master/.github/images/image8.png height=180px width=180px align=right alt=Code Karo Image />

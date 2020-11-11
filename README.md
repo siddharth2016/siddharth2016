@@ -22,7 +22,7 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linkedin.svg" alt="Siddharth's LinkedIn" width="24px" height="24px">
 </a>
 <a href="https://blog.codekaro.info/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/hashnode.svg" alt="Siddharth's Blog" width="24px" height="24px">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/hashnode.svg" alt="Siddharth's Blog" width="23px" height="24px">
 </a>
 <a href="https://github.com/marketplace/actions/update-image-readme">
 <!--START_SECTION:update_image-->

@@ -47,7 +47,11 @@ Often Failing, Always Learning ✌
 
 #### ⛄ [Hello Open Source](https://github.com/siddharth2016/hello-open-source#hello-open-source)
 
-#### ✍ [My Learning List](https://github.com/siddharth2016/my-learning#my-learning) 
+#### ✍ [My Learning List](https://github.com/siddharth2016/my-learning#my-learning)
+
+#### 👨‍💻 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 #### 📊 My Weekly Stats
 <!--START_SECTION:waka-->

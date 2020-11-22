@@ -51,6 +51,11 @@ Often Failing, Always Learning ✌
 
 #### 👨‍💻 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python WEB Summit'20](https://blog.codekaro.info/python-web-summit20)
+- [GitHub for Mobile 👌](https://blog.codekaro.info/github-for-mobile)
+- [CPython and more...](https://blog.codekaro.info/cpython-and-more)
+- [Open Source & GDP](https://blog.codekaro.info/open-source-and-gdp)
+- [Python (NEW) Print ?](https://blog.codekaro.info/python-new-print)
 <!-- BLOG-POST-LIST:END -->
 
 #### 📊 My Weekly Stats

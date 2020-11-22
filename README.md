@@ -52,7 +52,7 @@ Often Failing, Always Learning ✌
 #### 📊 My Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 13 November, 2020 - 20 November, 2020
+Week: 14 November, 2020 - 21 November, 2020
 
 Python       2 hrs 53 mins   █████████████████████▒░░░   85.36 % 
 Markdown     27 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.74 % 

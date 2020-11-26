@@ -49,7 +49,7 @@ Often Failing, Always Learning ✌
 
 #### ✍ [My Learning List](https://github.com/siddharth2016/my-learning#my-learning)
 
-#### 👨‍💻 Latest Blog Posts
+#### 👨‍💻 [My Blog Posts](https://blog.codekaro.info/)
 <!-- BLOG-POST-LIST:START -->
 - [Python WEB Summit'20](https://blog.codekaro.info/python-web-summit20)
 - [GitHub for Mobile 👌](https://blog.codekaro.info/github-for-mobile)

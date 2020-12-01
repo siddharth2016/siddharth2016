@@ -79,6 +79,6 @@ Git Config               0 secs              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
-<a href="https://github-readme-stats.vercel.app/api?username=siddharth2016&theme=vision-friendly-dark&show_icons=true&count_private=true&include_all_commits=true">
+<a href="https://github-readme-stats.vercel.app/api?username=siddharth2016&theme=graywhite&show_icons=true&count_private=true&include_all_commits=true">
   <img align="center" alt="Github Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=siddharth2016&theme=vision-friendly-dark&show_icons=true&include_all_commits=true" />
 </a>

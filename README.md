@@ -58,7 +58,6 @@ Often Failing, Always Learning ✌
 - [Python (NEW) Print ?](https://blog.codekaro.info/python-new-print)
 <!-- BLOG-POST-LIST:END -->
 
-#### 📊 My Weekly Stats
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-47-blue)
 

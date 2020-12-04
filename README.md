@@ -59,19 +59,19 @@ Often Failing, Always Learning ✌
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-119-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-149-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-307502%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-307214%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 7 hrs 26 mins       █████████████████░░░░░░░░   67.75% 
-Other                    2 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   23.04% 
-Python                   48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.41% 
-Makefile                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.72% 
-Git Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.68%
+Markdown                 5 hrs 23 mins       ███████████████░░░░░░░░░░   60.34% 
+Other                    2 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   28.33% 
+Python                   48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.12% 
+Makefile                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.89% 
+Git Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.83%
 
 ```
 

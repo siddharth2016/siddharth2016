@@ -59,9 +59,9 @@ Often Failing, Always Learning ✌
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-149-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-156-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-307214%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-872575%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 

@@ -59,6 +59,13 @@ Often Failing, Always Learning ✌
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
+```text
+Markdown     5 hrs 23 mins   ███████████████░░░░░░░░░░   60.34 % 
+Other        2 hrs 31 mins   ███████░░░░░░░░░░░░░░░░░░   28.33 % 
+Python       48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+Makefile     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Git Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+```
 <!--END_SECTION:waka-->
 
 

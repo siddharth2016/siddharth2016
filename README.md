@@ -51,11 +51,11 @@ Often Failing, Always Learning ✌
 
 #### 👨‍💻 [My Blog Posts](https://blog.codekaro.info/)
 <!-- BLOG-POST-LIST:START -->
+- [Brocading Naruto - A Computer Vision Activity](https://blog.codekaro.info/brocading-naruto-a-computer-vision-activity)
 - [Python WEB Summit'20](https://blog.codekaro.info/python-web-summit20)
 - [GitHub for Mobile 👌](https://blog.codekaro.info/github-for-mobile)
 - [CPython and more...](https://blog.codekaro.info/cpython-and-more)
 - [Open Source & GDP](https://blog.codekaro.info/open-source-and-gdp)
-- [Python (NEW) Print ?](https://blog.codekaro.info/python-new-print)
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->

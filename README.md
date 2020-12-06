@@ -58,6 +58,7 @@ Often Failing, Always Learning ✌
 - [Open Source & GDP](https://blog.codekaro.info/open-source-and-gdp)
 <!-- BLOG-POST-LIST:END -->
 
+#### 📈 My Weekly Stats
 <!--START_SECTION:waka-->
 ```text
 Markdown     5 hrs 23 mins   ███████████████░░░░░░░░░░   60.34 % 

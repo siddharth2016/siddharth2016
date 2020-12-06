@@ -15,3 +15,4 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           COMMIT_MESSAGE: Update README Waka Stats
+          SHOW_TITLE: true

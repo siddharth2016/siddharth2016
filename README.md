@@ -26,7 +26,7 @@
 </a>
 <a href="https://github.com/marketplace/actions/update-image-readme">
 <!--START_SECTION:update_image-->
-<img src=https://raw.githubusercontent.com/siddharth2016/siddharth2016/master/.github/images/image10.png height=180px width=180px align=right alt=Code Karo Image />
+<img src=https://raw.githubusercontent.com/siddharth2016/siddharth2016/master/.github/images/image5.gif height=180px width=180px align=right alt=Code Karo Image />
 <!--END_SECTION:update_image-->
 </a>
 
@@ -35,28 +35,41 @@
 
 Namaste :pray: I am a Software Engineer at Bank Of America and a Full Stack Developer hooked on <img alt="Python Icon" width="20px" src="https://raw.githubusercontent.com/siddharth2016/siddharth2016/master/images/python.gif" />
 
-Besides programming, I enjoy reading OSFY, mythology, finance related books and manga.
+Besides programming, I enjoy reading OSFY, mythology, personal finance and manga.
 
 Often Failing, Always Learning ✌
 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The password for the computer controls of nuclear-tipped missiles of the U.S was 00000000 for eight years.❞</i>
+<i>❝“Manually managing blocks of memory in C is like juggling bars of soap in a prison shower: It’s all fun and games until you forget about one of them.”— anonymous Usenet user   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
 #### ⛄ [Hello Open Source](https://github.com/siddharth2016/hello-open-source#hello-open-source)
 
-#### ✍ [My Learning List](https://github.com/siddharth2016/my-learning#my-learning) 
+#### ✍ [My Learning List](https://github.com/siddharth2016/my-learning#my-learning)
 
-#### 📊 My Weekly Stats
+#### 👨‍💻 [My Blog Posts](https://blog.codekaro.info/)
+<!-- BLOG-POST-LIST:START -->
+- [A Part of All I Earn, is Mine to Keep - A Non-Tech Non-Dev Blog](https://blog.codekaro.info/a-part-of-all-i-earn-is-mine-to-keep-a-non-tech-non-dev-blog)
+- [Brocading Naruto - A Computer Vision Activity](https://blog.codekaro.info/brocading-naruto-a-computer-vision-activity)
+- [Python WEB Summit'20](https://blog.codekaro.info/python-web-summit20)
+- [GitHub for Mobile 👌](https://blog.codekaro.info/github-for-mobile)
+- [CPython and more...](https://blog.codekaro.info/cpython-and-more)
+<!-- BLOG-POST-LIST:END -->
+
+#### 📈 My Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 01 December, 2020 - 08 December, 2020
+
+Markdown     1 hr 56 mins    ████████████████▒░░░░░░░░   64.77 % 
+YAML         37 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.96 % 
+Text         21 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Python       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 ```
 <!--END_SECTION:waka-->
 
 
-<a href="https://github-readme-stats.vercel.app/api?username=siddharth2016&theme=vision-friendly-dark&show_icons=true&count_private=true&include_all_commits=true">
-  <img align="center" alt="Github Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=siddharth2016&theme=vision-friendly-dark&show_icons=true&include_all_commits=true" />
-</a>
+<img alt="Github Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=siddharth2016&theme=graywhite&show_icons=true&include_all_commits=true" />

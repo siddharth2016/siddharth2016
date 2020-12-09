@@ -4,13 +4,13 @@
   <img src="https://raw.githubusercontent.com/siddharth2016/siddharth2016/master/images/research.svg" alt="Co-Authored Research" width="24px" height="24px">
 </a>
 <a href="https://www.hackerrank.com/siddharthchandr1">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/hackerrank.svg" alt="Siddharth's HackerRank" width="25px" height="24px">
+  <img src="https://raw.githubusercontent.com/siddharth2016/siddharth2016/master/images/hackerrank.svg" alt="Siddharth's HackerRank" width="25px" height="25px">
 </a>
 <a href="https://leetcode.com/chandraji/">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/leetcode.svg" alt="Siddharth's LeetCode" width="25px" height="24px">
 </a>
 <a href="https://siddharth2016.github.io/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/github.svg" alt="Siddharth's GitHub" width="25px" height="24px">
+  <img src="https://raw.githubusercontent.com/siddharth2016/siddharth2016/master/images/github.svg" alt="Siddharth's GitHub" width="25px" height="24px">
 </a>
 <a href="https://dev.to/siddharth2016">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Siddharth Chandra's DEV Profile" height="26px" width="24px">
@@ -19,10 +19,10 @@
   <img src="https://raw.githubusercontent.com/siddharth2016/siddharth2016/master/images/twitter_color.svg" alt="CodeKaro Twitter Account" height="24px" width="24px">
 </a>
 <a href="https://www.linkedin.com/in/siddharth-chandra1/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linkedin.svg" alt="Siddharth's LinkedIn" width="24px" height="24px">
+  <img src="https://raw.githubusercontent.com/siddharth2016/siddharth2016/master/images/linkedin.svg" alt="Siddharth's LinkedIn" width="24px" height="24px">
 </a>
 <a href="https://blog.codekaro.info/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/hashnode.svg" alt="Siddharth's Blog" width="23px" height="24px">
+  <img src="https://raw.githubusercontent.com/siddharth2016/siddharth2016/master/images/hashnode.svg" alt="Siddharth's Blog" width="23px" height="24px">
 </a>
 <a href="https://github.com/marketplace/actions/update-image-readme">
 <!--START_SECTION:update_image-->
@@ -33,7 +33,7 @@
 <br />
 <br />
 
-Namaste :pray: I am a Software Engineer at Bank Of America and a Full Stack Developer hooked on <img alt="Python Icon" width="20px" src="https://raw.githubusercontent.com/siddharth2016/siddharth2016/master/images/python.gif" />
+Namaste :pray: I am a Software Engineer at Bank Of America and a Full Stack Developer hooked on <img alt="Python Icon" height="20px" width="20px" src="https://raw.githubusercontent.com/siddharth2016/siddharth2016/master/images/python.svg" />
 
 Besides programming, I enjoy reading OSFY, mythology, personal finance and manga.
 

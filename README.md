@@ -13,7 +13,7 @@
   <img src="https://raw.githubusercontent.com/siddharth2016/siddharth2016/master/images/github.svg" alt="Siddharth's GitHub" width="25px" height="24px">
 </a>
 <a href="https://dev.to/siddharth2016">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Siddharth Chandra's DEV Profile" height="26px" width="24px">
+  <img src="https://raw.githubusercontent.com/siddharth2016/siddharth2016/master/images/dev.svg" alt="Siddharth Chandra's DEV Profile" height="30px" width="24px">
 </a>
 <a href="https://twitter.com/CodeKaro_">
   <img src="https://raw.githubusercontent.com/siddharth2016/siddharth2016/master/images/twitter_color.svg" alt="CodeKaro Twitter Account" height="24px" width="24px">

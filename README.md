@@ -7,7 +7,7 @@
   <img src="https://raw.githubusercontent.com/siddharth2016/siddharth2016/master/images/hackerrank.svg" alt="Siddharth's HackerRank" width="25px" height="25px">
 </a>
 <a href="https://leetcode.com/chandraji/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/leetcode.svg" alt="Siddharth's LeetCode" width="25px" height="24px">
+  <img src="https://raw.githubusercontent.com/siddharth2016/siddharth2016/master/images/leetcode.svg" alt="Siddharth's LeetCode" width="25px" height="24px">
 </a>
 <a href="https://siddharth2016.github.io/">
   <img src="https://raw.githubusercontent.com/siddharth2016/siddharth2016/master/images/github.svg" alt="Siddharth's GitHub" width="25px" height="24px">

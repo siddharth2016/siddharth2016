@@ -61,7 +61,7 @@ Often Failing, Always Learning ✌
 #### 📈 My Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 07 December, 2020 - 14 December, 2020
+Week: 08 December, 2020 - 15 December, 2020
 
 YAML       8 hrs 7 mins    █████████████████░░░░░░░░   67.84 % 
 Python     2 hrs 10 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.17 % 

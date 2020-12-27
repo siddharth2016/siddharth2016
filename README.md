@@ -61,10 +61,9 @@ Often Failing, Always Learning ✌
 #### 📈 My Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 18 December, 2020 - 25 December, 2020
+Week: 19 December, 2020 - 26 December, 2020
 
-Scala      2 hrs 50 mins   ███████████████████████▒░   93.81 % 
-Markdown   11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+Scala      2 hrs 50 mins   █████████████████████████   99.92 % 
 ```
 <!--END_SECTION:waka-->
 

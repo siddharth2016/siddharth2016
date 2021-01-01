@@ -61,7 +61,7 @@ Often Failing, Always Learning ✌
 #### 📈 My Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 23 December, 2020 - 30 December, 2020
+Week: 24 December, 2020 - 31 December, 2020
 
 Scala   2 hrs 26 mins   █████████████████████████   100.00 % 
 ```

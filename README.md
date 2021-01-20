@@ -61,9 +61,9 @@ Often Failing, Always Learning ✌
 #### 📈 My Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 11 January, 2021 - 18 January, 2021
+Week: 12 January, 2021 - 19 January, 2021
 
-Markdown   5 hrs        █████████████████████████   100.00 % 
+Markdown   5 hrs 1 min     █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 

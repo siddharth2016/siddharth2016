@@ -51,11 +51,11 @@ Often Failing, Always Learning ✌
 
 #### 👨‍💻 [My Blog Posts](https://blog.codekaro.info/)
 <!-- BLOG-POST-LIST:START -->
+- [Making PONGPONG - Game Development using Pyglet - Part 2](https://blog.codekaro.info/making-pongpong-game-development-using-pyglet-part-2)
 - [Making PONGPONG - Game Development using Pyglet - Part 1](https://blog.codekaro.info/making-pongpong-game-development-using-pyglet-part-1)
 - [My Top 5 Python Libraries, I used in 2020 !](https://blog.codekaro.info/my-top-5-python-libraries-i-used-in-2020)
 - [Hello Open Source and Happy New Year 2021 🎉](https://blog.codekaro.info/hello-open-source-and-happy-new-year-2021)
 - [Scraping Web - Awesome Facts](https://blog.codekaro.info/scraping-web-awesome-facts)
-- [Scraping Web - Inspiring Quotes](https://blog.codekaro.info/scraping-web-inspiring-quotes)
 <!-- BLOG-POST-LIST:END -->
 
 #### 📈 My Weekly Stats

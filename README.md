@@ -64,7 +64,7 @@ Often Failing, Always Learning ✌
 Week: 13 January, 2021 - 20 January, 2021
 
 Markdown   9 hrs 6 mins     ████████████████████████▒   96.74 % 
-Python     18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Python     18 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
 ```
 <!--END_SECTION:waka-->
 

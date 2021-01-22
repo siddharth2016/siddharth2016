@@ -63,8 +63,8 @@ Often Failing, Always Learning ✌
 ```text
 Week: 14 January, 2021 - 21 January, 2021
 
-Markdown   5 hrs 55 mins   ███████████████████████▓░   95.09 % 
-Python     18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+Markdown   5 hrs 55 mins    ███████████████████████▓░   95.09 % 
+Python     18 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
 ```
 <!--END_SECTION:waka-->
 

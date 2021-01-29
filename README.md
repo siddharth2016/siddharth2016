@@ -33,7 +33,7 @@
 <br />
 <br />
 
-Namaste :pray: I am a Software Engineer at Bank Of America and a Full Stack Developer hooked on <img alt="Python Icon" height="20px" width="20px" src="https://raw.githubusercontent.com/siddharth2016/siddharth2016/master/images/python.svg" />
+Namaste :pray: I am a Software Engineer and a Full Stack Developer hooked on <img alt="Python Icon" height="20px" width="20px" src="https://raw.githubusercontent.com/siddharth2016/siddharth2016/master/images/python.svg" />
 
 Besides programming, I enjoy reading OSFY, mythology, fiction, personal finance and manga.
 

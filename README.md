@@ -64,7 +64,7 @@ Often Failing, Always Learning ✌
 Week: 28 January, 2021 - 04 February, 2021
 
 Scala        9 hrs 7 mins     █████████████████████████   99.62 % 
-Git Config   2 mins           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Git Config   3 mins           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 ```
 <!--END_SECTION:waka-->
 

@@ -61,10 +61,9 @@ Often Failing, Always Learning ✌
 #### 📈 My Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 31 January, 2021 - 07 February, 2021
+Week: 01 February, 2021 - 08 February, 2021
 
-Scala        9 hrs 7 mins    █████████████████████████   99.62 % 
-Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Scala      6 hrs 52 mins   █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 

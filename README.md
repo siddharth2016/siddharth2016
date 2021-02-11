@@ -61,9 +61,9 @@ Often Failing, Always Learning ✌
 #### 📈 My Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 02 February, 2021 - 09 February, 2021
+Week: 03 February, 2021 - 10 February, 2021
 
-Scala      1 hr 48 mins    █████████████████████████   100.00 % 
+Scala      37 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 

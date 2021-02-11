@@ -63,7 +63,7 @@ Often Failing, Always Learning ✌
 ```text
 Week: 03 February, 2021 - 10 February, 2021
 
-Scala      37 mins         █████████████████████████   100.00 % 
+Scala      57 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 

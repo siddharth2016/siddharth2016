@@ -41,7 +41,7 @@ Often Failing, Always Learning ✌
 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Alan Turing the father of computer science, artificial intelligence and who helped break German WW2 cyphers, committed suicide after being forced to undergo hormonal treatment for homosexuality and barred from continuing his cryptographic work.❞</i>
+<i>❝“In a room full of top software designers, if two agree on the same thing, that’s a majority.”— Bill Curtis   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

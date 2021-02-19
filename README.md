@@ -30,7 +30,7 @@
 <!--END_SECTION:update_image-->
 </a>
 
-<br />
+<br/>
 
 [My Skyline](https://skyline.github.com/siddharth2016)
 

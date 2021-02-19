@@ -31,8 +31,7 @@
 </a>
 
 <br/>
-
-[My Skyline](https://skyline.github.com/siddharth2016)
+<br/>
 
 Namaste :pray: I am a Software Engineer and a Full Stack Developer hooked on <img alt="Python Icon" height="20px" width="20px" src="https://raw.githubusercontent.com/siddharth2016/siddharth2016/master/images/python.svg" />
 
@@ -45,6 +44,8 @@ Often Failing, Always Learning ✌
 <i>❝“We have to stop optimizing for programmers and start optimizing for users.”— Jeff Atwood   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
+
+#### 🌌 [My Skyline](https://skyline.github.com/siddharth2016)
 
 #### ⛄ [Hello Open Source](https://github.com/siddharth2016/hello-open-source#hello-open-source)
 

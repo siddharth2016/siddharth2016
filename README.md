@@ -53,11 +53,11 @@ Often Failing, Always Learning ✌
 
 #### 👨‍💻 [My Blog Posts](https://blog.codekaro.info/)
 <!-- BLOG-POST-LIST:START -->
+- [Python Asterisks](https://blog.codekaro.info/python-asterisks)
 - [Let's Talk Python - Some of the Unknown 👤](https://blog.codekaro.info/lets-talk-python-some-of-the-unknown)
 - [Making PongPong ! The End 🤝](https://blog.codekaro.info/making-pongpong-the-end)
 - [Making PONGPONG - Game Development using Pyglet - Part 3](https://blog.codekaro.info/making-pongpong-game-development-using-pyglet-part-3)
 - [Making PONGPONG - Game Development using Pyglet - Part 2](https://blog.codekaro.info/making-pongpong-game-development-using-pyglet-part-2)
-- [Making PONGPONG - Game Development using Pyglet - Part 1](https://blog.codekaro.info/making-pongpong-game-development-using-pyglet-part-1)
 <!-- BLOG-POST-LIST:END -->
 
 #### 📈 My Weekly Stats

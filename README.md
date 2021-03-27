@@ -45,7 +45,7 @@ Often Failing, Always Learning ✌
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
-#### 🌌 [My Skyline](https://skyline.github.com/siddharth2016)
+#### 🌌 [My GitHub Skyline](https://skyline.github.com/siddharth2016)
 
 #### ⛄ [Hello Open Source](https://github.com/siddharth2016/hello-open-source#hello-open-source)
 

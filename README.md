@@ -53,11 +53,11 @@ Often Failing, Always Learning ✌
 
 #### 👨‍💻 [My Blog Posts](https://blog.codekaro.info/)
 <!-- BLOG-POST-LIST:START -->
+- [Python - A Machine Learning Champ](https://blog.codekaro.info/python-a-machine-learning-champ)
 - [Python - Useful Tips for Beginners](https://blog.codekaro.info/python-useful-tips-for-beginners)
 - [Why Your Application Program Maybe At Risk?](https://blog.codekaro.info/why-your-application-program-maybe-at-risk)
 - [Python Asterisks](https://blog.codekaro.info/python-asterisks)
 - [Let's Talk Python - Some of the Unknown 👤](https://blog.codekaro.info/lets-talk-python-some-of-the-unknown)
-- [Making PongPong ! The End 🤝](https://blog.codekaro.info/making-pongpong-the-end)
 <!-- BLOG-POST-LIST:END -->
 
 #### 📈 My Weekly Stats

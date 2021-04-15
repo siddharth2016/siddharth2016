@@ -53,11 +53,11 @@ Often Failing, Always Learning ✌
 
 #### 👨‍💻 [My Blog Posts](https://blog.codekaro.info/)
 <!-- BLOG-POST-LIST:START -->
+- [Python - Data Science Libraries Simplified](https://blog.codekaro.info/python-data-science-libraries-simplified)
 - [Static Code Analysis - Top 5 Tools](https://blog.codekaro.info/static-code-analysis-top-5-tools)
 - [Avoid These Mistakes While Training Your AI](https://blog.codekaro.info/avoid-these-mistakes-while-training-your-ai)
 - [IoT Analytics Tools You Should Try](https://blog.codekaro.info/iot-analytics-tools-you-should-try)
 - [Python - A Machine Learning Champ](https://blog.codekaro.info/python-a-machine-learning-champ)
-- [Python - Useful Tips for Beginners](https://blog.codekaro.info/python-useful-tips-for-beginners)
 <!-- BLOG-POST-LIST:END -->
 
 #### 📈 My Weekly Stats

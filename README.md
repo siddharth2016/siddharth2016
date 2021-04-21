@@ -53,11 +53,11 @@ Often Failing, Always Learning ✌
 
 #### 👨‍💻 [My Blog Posts](https://blog.codekaro.info/)
 <!-- BLOG-POST-LIST:START -->
+- [How To Create A Paint Brush Application Using OpenCV](https://blog.codekaro.info/how-to-create-a-paint-brush-application-using-opencv)
 - [Orange: The No-Code Tool for Machine Learning](https://blog.codekaro.info/orange-the-no-code-tool-for-machine-learning)
 - [Let's Draw OpenCV Logo Using OpenCV](https://blog.codekaro.info/lets-draw-opencv-logo-using-opencv)
 - [Visualisation Libraries - JavaScript, Python and More](https://blog.codekaro.info/visualisation-libraries-javascript-python-and-more)
 - [Python - Data Science Libraries Simplified](https://blog.codekaro.info/python-data-science-libraries-simplified)
-- [Static Code Analysis - Top 5 Tools](https://blog.codekaro.info/static-code-analysis-top-5-tools)
 <!-- BLOG-POST-LIST:END -->
 
 #### 📈 My Weekly Stats

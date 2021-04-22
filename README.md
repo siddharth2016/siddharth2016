@@ -39,6 +39,7 @@ Besides programming, I enjoy reading OSFY, mythology, fiction, personal finance 
 
 Often Failing, Always Learning ✌
 
+#### Quote/Fact Of The Day
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝An average person normally blinks 20 times a minute, but when using a computer he/she blinks only 7 times a minute.❞</i>

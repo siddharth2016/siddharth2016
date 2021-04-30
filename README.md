@@ -54,11 +54,11 @@ Often Failing, Always Learning ✌
 
 #### 👨‍💻 [My Blog Posts](https://blog.codekaro.info/)
 <!-- BLOG-POST-LIST:START -->
+- [Download YouTube Videos Using Python - Your Own YouTube Downloader](https://blog.codekaro.info/download-youtube-videos-using-python-your-own-youtube-downloader)
 - [Python - List Vs Tuple Memory Management](https://blog.codekaro.info/python-list-vs-tuple-memory-management)
 - [Shell Script Basics](https://blog.codekaro.info/shell-script-basics)
 - [How To Make A SlideShow Using OpenCV](https://blog.codekaro.info/how-to-make-a-slideshow-using-opencv)
 - [10 Most Popular GitHub Repositories](https://blog.codekaro.info/10-most-popular-github-repositories)
-- [How To Create A Paint Brush Application Using OpenCV](https://blog.codekaro.info/how-to-create-a-paint-brush-application-using-opencv)
 <!-- BLOG-POST-LIST:END -->
 
 #### 📈 My Weekly Stats

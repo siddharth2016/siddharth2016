@@ -64,7 +64,7 @@ Often Failing, Always Learning ✌
 #### 📈 My Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 15 May, 2021 - 22 May, 2021
+Week: 16 May, 2021 - 23 May, 2021
 
 Scala        5 hrs 30 mins   ███████████████░░░░░░░░░░   60.25 % 
 Markdown     3 hrs 25 mins   █████████▒░░░░░░░░░░░░░░░   37.39 % 

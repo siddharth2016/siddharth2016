@@ -64,9 +64,9 @@ Often Failing, Always Learning ✌
 #### 📈 My Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 01 July, 2021 - 07 July, 2021
+Week: 02 July, 2021 - 08 July, 2021
 
-Scala   1 hr 16 mins    █████████████████████████   100.00 % 
+Scala   13 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 

@@ -64,7 +64,9 @@ Often Failing, Always Learning ✌
 #### 📈 My Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 11 July, 2021 - 17 July, 2021
+
+Python   2 hrs 58 mins   █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 

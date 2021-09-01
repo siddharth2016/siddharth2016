@@ -54,11 +54,11 @@ Often Failing, Always Learning ✌
 
 #### 👨‍💻 [My Blog Posts](https://blog.codekaro.info/)
 <!-- BLOG-POST-LIST:START -->
+- [Scala For Beginners - Crash Course - Part 2](https://blog.codekaro.info/scala-for-beginners-crash-course-part-2)
 - [Scala For Beginners - Crash Course - Part 1](https://blog.codekaro.info/scala-for-beginners-crash-course-part-1)
 - [How To Convert Markdown To HTML Using Python](https://blog.codekaro.info/how-to-convert-markdown-to-html-using-python)
 - [Download YouTube Videos Using Python - Your Own YouTube Downloader](https://blog.codekaro.info/download-youtube-videos-using-python-your-own-youtube-downloader)
 - [Python - List Vs Tuple Memory Management](https://blog.codekaro.info/python-list-vs-tuple-memory-management)
-- [Shell Script Basics](https://blog.codekaro.info/shell-script-basics)
 <!-- BLOG-POST-LIST:END -->
 
 #### 📈 My Weekly Stats

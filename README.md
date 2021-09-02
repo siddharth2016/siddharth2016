@@ -64,7 +64,7 @@ Often Failing, Always Learning ✌
 #### 📈 My Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 25 August, 2021 - 31 August, 2021
+Week: 26 August, 2021 - 01 September, 2021
 
 Markdown   2 hrs 1 min     ██████████████████▒░░░░░░   73.69 % 
 Scala      43 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.31 % 

@@ -54,11 +54,11 @@ Often Failing, Always Learning ✌
 
 #### 👨‍💻 [My Blog Posts](https://blog.codekaro.info/)
 <!-- BLOG-POST-LIST:START -->
+- [Preptember - Prepare For HacktoberFest 2021](https://blog.codekaro.info/preptember-prepare-for-hacktoberfest-2021)
 - [Scala Vs Python Syntax Cheat Sheet](https://blog.codekaro.info/scala-vs-python-syntax-cheat-sheet)
 - [Scala For Beginners - Crash Course - Part 5](https://blog.codekaro.info/scala-for-beginners-crash-course-part-5)
 - [Scala For Beginners - Crash Course - Part 4](https://blog.codekaro.info/scala-for-beginners-crash-course-part-4)
 - [Scala For Beginners - Crash Course - Part 3](https://blog.codekaro.info/scala-for-beginners-crash-course-part-3)
-- [Scala For Beginners - Crash Course - Part 2](https://blog.codekaro.info/scala-for-beginners-crash-course-part-2)
 <!-- BLOG-POST-LIST:END -->
 
 #### 📈 My Weekly Stats

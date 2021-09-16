@@ -33,9 +33,9 @@
 <br/>
 <br/>
 
-Namaste :pray: I am a Software Engineer and a Full Stack Developer hooked on <img alt="Python Icon" height="20px" width="20px" src="https://raw.githubusercontent.com/siddharth2016/siddharth2016/master/images/python.svg" />
+Namaste :pray: I am a Software Engineer and a Full Stack Developer.
 
-Besides Programming, I enjoy exploring OSFY, Mythology, Fiction, Personal Finance and Manga.
+Besides Programming, I enjoy exploring Open Source, Mythology, Fiction, Personal Finance and Manga.
 
 Often Failing, Always Learning ✌
 

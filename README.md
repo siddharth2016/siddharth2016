@@ -33,7 +33,7 @@
 <br/>
 <br/>
 
-Namaste :pray: I am a Software Engineer and a Full Stack Developer.
+Namaste :pray: I am a Software Engineer.
 
 Besides Programming, I enjoy exploring Open Source, Mythology, Fiction, Personal Finance and Manga.
 

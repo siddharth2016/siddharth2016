@@ -39,7 +39,7 @@ Besides Programming, I enjoy exploring Open Source, Mythology, Fiction, Personal
 
 Often Failing, Always Learning ✌
 
-#### 🔖 Quote/Fact Of The Day
+#### 🔖 Random Quote or Fun-Fact
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝Gaming computers heat a room just as efficiently as a space heater does.❞</i>

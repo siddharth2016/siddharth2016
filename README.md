@@ -21,7 +21,7 @@
 <a href="https://www.linkedin.com/in/siddharth-chandra1/">
   <img src="https://raw.githubusercontent.com/siddharth2016/siddharth2016/master/images/linkedin.svg" alt="Siddharth's LinkedIn" width="24px" height="24px">
 </a>
-<a href="https://blog.codekaro.info/">
+<a href="https://chandraji.dev/">
   <img src="https://raw.githubusercontent.com/siddharth2016/siddharth2016/master/images/hashnode.svg" alt="Siddharth's Blog" width="23px" height="24px">
 </a>
 <a href="https://github.com/marketplace/actions/update-image-readme">
@@ -52,13 +52,13 @@ Often Failing, Always Learning ✌
 
 #### ✍ [My Learning List](https://github.com/siddharth2016/my-learning#my-learning)
 
-#### 👨‍💻 [My Blog Posts](https://blog.codekaro.info/)
+#### 👨‍💻 [My Blog Posts](https://chandraji.dev/)
 <!-- BLOG-POST-LIST:START -->
-- [Preptember - Prepare For HacktoberFest 2021](https://blog.codekaro.info/preptember-prepare-for-hacktoberfest-2021)
-- [Scala Vs Python Syntax Cheat Sheet](https://blog.codekaro.info/scala-vs-python-syntax-cheat-sheet)
-- [Scala For Beginners - Crash Course - Part 5](https://blog.codekaro.info/scala-for-beginners-crash-course-part-5)
-- [Scala For Beginners - Crash Course - Part 4](https://blog.codekaro.info/scala-for-beginners-crash-course-part-4)
-- [Scala For Beginners - Crash Course - Part 3](https://blog.codekaro.info/scala-for-beginners-crash-course-part-3)
+- [Preptember - Prepare For HacktoberFest 2021](https://chandraji.dev/preptember-prepare-for-hacktoberfest-2021)
+- [Scala Vs Python Syntax Cheat Sheet](https://chandraji.dev/scala-vs-python-syntax-cheat-sheet)
+- [Scala For Beginners - Crash Course - Part 5](https://chandraji.dev/scala-for-beginners-crash-course-part-5)
+- [Scala For Beginners - Crash Course - Part 4](https://chandraji.dev/scala-for-beginners-crash-course-part-4)
+- [Scala For Beginners - Crash Course - Part 3](https://chandraji.dev/scala-for-beginners-crash-course-part-3)
 <!-- BLOG-POST-LIST:END -->
 
 #### 📈 My Weekly Stats

@@ -54,11 +54,11 @@ Often Failing, Always Learning ✌
 
 #### 👨‍💻 [My Blog Posts](https://chandraji.dev/)
 <!-- BLOG-POST-LIST:START -->
+- [Big Data Open Source Frameworks](https://chandraji.dev/big-data-open-source-frameworks)
 - [Preptember - Prepare For HacktoberFest 2021](https://chandraji.dev/preptember-prepare-for-hacktoberfest-2021)
 - [Scala Vs Python Syntax Cheat Sheet](https://chandraji.dev/scala-vs-python-syntax-cheat-sheet)
 - [Scala For Beginners - Crash Course - Part 5](https://chandraji.dev/scala-for-beginners-crash-course-part-5)
 - [Scala For Beginners - Crash Course - Part 4](https://chandraji.dev/scala-for-beginners-crash-course-part-4)
-- [Scala For Beginners - Crash Course - Part 3](https://chandraji.dev/scala-for-beginners-crash-course-part-3)
 <!-- BLOG-POST-LIST:END -->
 
 #### 📈 My Weekly Stats

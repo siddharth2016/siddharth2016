@@ -64,7 +64,7 @@ Often Failing, Always Learning ✌
 #### 📈 My Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 15 December, 2021 - 21 December, 2021
+Week: 16 December, 2021 - 22 December, 2021
 
 Python   11 mins         ███████████████▒░░░░░░░░░   61.24 % 
 Text     5 mins          ███████▒░░░░░░░░░░░░░░░░░   29.10 % 

@@ -64,7 +64,7 @@ Often Failing, Always Learning ✌
 #### 📈 My Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 20 December, 2021 - 26 December, 2021
+Week: 21 December, 2021 - 27 December, 2021
 
 Markdown   4 hrs 22 mins   ███████████████████████▒░   93.07 % 
 Python     11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 

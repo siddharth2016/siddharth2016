@@ -35,7 +35,7 @@
 
 Namaste :pray: I am a Software Engineer.
 
-Besides Programming, I enjoy exploring Open Source, Mythology, Fiction, Personal Finance and Manga.
+Besides Programming, I enjoy reading books on Mythology, Fiction, Personal Finance and Manga.
 
 Often Failing, Always Learning ✌
 

@@ -50,7 +50,7 @@ Often Failing, Always Learning ✌
 
 #### ⛄ [Hello Open Source](https://github.com/siddharth2016/hello-open-source#hello-open-source)
 
-#### ✍ [My Learning List](https://github.com/siddharth2016/my-learning#my-learning)
+#### ✍ [My Learning](https://github.com/siddharth2016/my-learning#my-learning)
 
 #### 👨‍💻 [My Blog Posts](https://chandraji.dev/)
 <!-- BLOG-POST-LIST:START -->

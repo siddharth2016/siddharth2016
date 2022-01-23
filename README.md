@@ -66,7 +66,7 @@ Often Failing, Always Learning ✌
 ```text
 Week: 16 January, 2022 - 22 January, 2022
 
-Java             17 hrs 44 mins  ████████████████████████▓   98.75 % 
+Java             17 hrs 34 mins  ████████████████████████▓   98.75 % 
 GitIgnore file   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 ```
 <!--END_SECTION:waka-->

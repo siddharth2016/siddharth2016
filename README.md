@@ -72,4 +72,4 @@ GitIgnore file   9 mins          ▒░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 #### 🗓 My GitHub Card
-<img alt="Github Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=siddharth2016&theme=graywhite&show_icons=true&include_all_commits=true&hide_rank=true">
+<img alt="Github Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=siddharth2016&show_icons=true&include_all_commits=true&hide_rank=false">

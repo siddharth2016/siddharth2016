@@ -64,7 +64,7 @@ Often Failing, Always Learning ✌
 #### 📈 My Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 21 January, 2022 - 27 January, 2022
+Week: 22 January, 2022 - 28 January, 2022
 
 Java             10 hrs 32 mins  ████████████████████████▓   98.59 % 
 GitIgnore file   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 

@@ -64,7 +64,7 @@ Often Failing, Always Learning ✌
 #### 📈 My Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 01 February, 2022 - 07 February, 2022
+Week: 02 February, 2022 - 08 February, 2022
 
 Java             6 hrs 52 mins   ████████████████████████▒   97.03 % 
 Text             12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 

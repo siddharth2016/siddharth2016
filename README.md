@@ -52,7 +52,7 @@ Often Failing, Always Learning ✌
 
 #### ✍ [My Learning](https://github.com/siddharth2016/my-learning#my-learning)
 
-#### 👨‍💻 [My Blog Posts](https://chandraji.dev/)
+#### 👨‍💻 My Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Books I Read in 2021](https://chandraji.dev/books-i-read-in-2021)
 - [Blockchain Fundamentals, Cryptocurrencies and Open Source](https://chandraji.dev/blockchain-fundamentals)

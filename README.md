@@ -65,11 +65,11 @@ Often Failing, Always Learning ✌
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 March 2022 - To: 15 March 2022
+From: 09 March 2022 - To: 16 March 2022
 
-Java         4 hrs 33 mins   █████████████████▓░░░░░░░   70.85 %
-XML          1 hr 45 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.30 %
-Properties   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+Java         4 hrs 55 mins   ███████████████████████▒░   92.99 %
+XML          15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
+Properties   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
 ```
 
 <!--END_SECTION:waka-->

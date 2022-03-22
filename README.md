@@ -33,7 +33,7 @@
 <br/>
 <br/>
 
-Namaste :pray: I am a Software Engineer. Backend Developer.
+Namaste :pray: I am a Software Engineer. Backend Developer. Blogger.
 
 Besides Programming, I enjoy reading books on Mythology, Fiction, Personal Finance and Manga.
 

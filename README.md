@@ -65,13 +65,14 @@ Often Failing, Always Learning ✌
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 March 2022 - To: 26 March 2022
+From: 20 March 2022 - To: 27 March 2022
 
-Java             5 hrs 3 mins    ████████████████████▒░░░░   81.59 %
-SQL              31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 %
-Properties       22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
-XML              8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
-GitIgnore file   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+Java             8 hrs 3 mins    █████████████████████▓░░░   86.44 %
+SQL              31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
+Properties       22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
+GitIgnore file   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+XML              8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->

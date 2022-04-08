@@ -65,10 +65,10 @@ Often Failing, Always Learning ✌
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 March 2022 - To: 06 April 2022
+From: 31 March 2022 - To: 07 April 2022
 
-Java       9 hrs 25 mins   ████████████████████▓░░░░   82.09 %
-Markdown   2 hrs 3 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.91 %
+Java       7 hrs 9 mins    ███████████████████▒░░░░░   77.72 %
+Markdown   2 hrs 3 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.28 %
 ```
 
 <!--END_SECTION:waka-->

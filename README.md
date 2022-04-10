@@ -65,10 +65,7 @@ Often Failing, Always Learning ✌
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 April 2022 - To: 08 April 2022
-
-Markdown   2 hrs 3 mins    ████████████▓░░░░░░░░░░░░   51.29 %
-Java       1 hr 57 mins    ████████████▒░░░░░░░░░░░░   48.71 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

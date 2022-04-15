@@ -42,7 +42,7 @@ Often Failing, Always Learning ✌
 #### 🔖 Random Quote or Fun-Fact
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’  Now they have two problems.”— Jamie Zawinski   ❞</i>
+<i>❝“If people never did silly things, nothing intelligent would ever get done.”— Ludwig Wittgenstein   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

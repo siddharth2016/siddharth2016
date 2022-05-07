@@ -65,7 +65,7 @@ Often Failing, Always Learning ✌
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 April 2022 - To: 05 May 2022
+From: 29 April 2022 - To: 06 May 2022
 
 Java       2 hrs 18 mins   ████████████████████░░░░░   80.27 %
 Solidity   33 mins         █████░░░░░░░░░░░░░░░░░░░░   19.73 %

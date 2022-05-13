@@ -65,10 +65,7 @@ Often Failing, Always Learning ✌
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 May 2022 - To: 11 May 2022
-
-Java       1 hr 6 mins     ███████████████████████▒░   93.29 %
-Solidity   4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

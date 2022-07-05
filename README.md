@@ -63,7 +63,9 @@ Often Failing, Always Learning ✌
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 27 June 2022 - To: 04 July 2022
+
+Java   1 hr 43 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

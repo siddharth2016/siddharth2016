@@ -63,9 +63,9 @@ Often Failing, Always Learning ✌
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 June 2022 - To: 04 July 2022
+From: 28 June 2022 - To: 05 July 2022
 
-Java   1 hr 43 mins    █████████████████████████   100.00 %
+Java   3 hrs 14 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

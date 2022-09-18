@@ -63,7 +63,7 @@ Often Failing, Always Learning ✌
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 September 2022 - To: 16 September 2022
+From: 10 September 2022 - To: 17 September 2022
 
 Java   9 mins          █████████████████████████   100.00 %
 ```

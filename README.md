@@ -63,10 +63,10 @@ Often Failing, Always Learning ✌
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 September 2022 - To: 27 September 2022
+From: 21 September 2022 - To: 28 September 2022
 
-Java   0 secs          █████████████████████▒░░░   85.79 %
-JAVA   0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   14.21 %
+Java   0 secs          █████████████████████░░░░   83.43 %
+JAVA   0 secs          ████░░░░░░░░░░░░░░░░░░░░░   16.57 %
 ```
 
 <!--END_SECTION:waka-->

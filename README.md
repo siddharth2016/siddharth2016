@@ -63,10 +63,9 @@ Often Failing, Always Learning ✌
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 October 2022 - To: 15 October 2022
+From: 09 October 2022 - To: 16 October 2022
 
-Java             3 hrs 23 mins   ████████████████████████▓   98.31 %
-GitIgnore file   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+Java   2 hrs 51 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

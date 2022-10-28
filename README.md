@@ -42,7 +42,7 @@ Often Failing, Always Learning ✌
 #### 🔖 Random Quote or Fun-Fact
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“I see little commercial potential for the Internet for at least ten years.”— Bill Gates, 1994   ❞</i>
+<i>❝“The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.”— Stephen Hawking   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

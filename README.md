@@ -63,9 +63,9 @@ Often Failing, Always Learning ✌
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 January 2023 - To: 09 January 2023
+From: 03 January 2023 - To: 10 January 2023
 
-Java   1 hr 1 min      █████████████████████████   100.00 %
+Java   6 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

@@ -48,8 +48,6 @@ Often Failing, Always Learning ✌
 
 #### ⛄ [Hello Open Source](https://github.com/siddharth2016/hello-open-source#hello-open-source)
 
-#### ✍ [My Learning](https://github.com/siddharth2016/my-learning#my-learning)
-
 #### 👨‍💻 My Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Python Programmer to a Java Developer: Things I Learned](https://chandraji.dev/python-programmer-to-a-java-developer-things-i-learned)

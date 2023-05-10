@@ -61,13 +61,13 @@ Often Failing, Always Learning ✌
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 May 2023 - To: 08 May 2023
+From: 02 May 2023 - To: 09 May 2023
 
-Java             2 hrs 59 mins   ██████████████████░░░░░░░   72.42 %
-GitIgnore file   22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 %
-Properties       20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
-Env File         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
-XML              5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+Java             4 hrs 27 mins   ████████████████████░░░░░   79.49 %
+GitIgnore file   22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
+Properties       20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
+Env File         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+XML              5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
 ```
 
 <!--END_SECTION:waka-->

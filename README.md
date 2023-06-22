@@ -61,10 +61,10 @@ Often Failing, Always Learning ✌
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 June 2023 - To: 20 June 2023
+From: 14 June 2023 - To: 21 June 2023
 
-Java   4 hrs 53 mins   █████████████████████████   99.85 %
-SQL    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Java   4 hrs 39 mins   █████████████████████████   99.84 %
+SQL    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->

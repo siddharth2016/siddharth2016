@@ -33,9 +33,7 @@
 <br/>
 <br/>
 
-Namaste :pray: I am a Software Engineer. Backend Developer. Blogger.
-
-Besides Programming, I enjoy reading books on Mythology, Fiction, Personal Finance and Manga.
+I enjoy reading books on Mythology, Fiction, Personal Finance and Manga.
 
 Often Failing, Always Learning ✌
 

@@ -33,7 +33,7 @@
 <br/>
 <br/>
 
-I enjoy reading books on Mythology, Fiction, Personal Finance and Manga.
+I enjoy reading books on Mythology, Fiction and Personal Finance and Mangas.
 
 Often Failing, Always Learning ✌
 

@@ -59,13 +59,13 @@ Often Failing, Always Learning ✌
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 August 2023 - To: 27 August 2023
+From: 21 August 2023 - To: 28 August 2023
 
-CSS          4 hrs 15 mins   █████████▒░░░░░░░░░░░░░░░   36.94 %
-HTML         3 hrs 37 mins   ████████░░░░░░░░░░░░░░░░░   31.50 %
-JavaScript   1 hr 41 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.65 %
-Markdown     1 hr 17 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.19 %
-Text         38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
+JavaScript   2 hrs 24 mins   ████████░░░░░░░░░░░░░░░░░   31.80 %
+CSS          2 hrs 13 mins   ███████▒░░░░░░░░░░░░░░░░░   29.33 %
+Markdown     1 hr 17 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.05 %
+HTML         1 hr 1 min      ███▒░░░░░░░░░░░░░░░░░░░░░   13.59 %
+Text         36 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 %
 ```
 
 <!--END_SECTION:waka-->

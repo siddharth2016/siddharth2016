@@ -48,11 +48,11 @@ Often Failing, Always Learning ✌
 
 #### 👨‍💻 My Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Diving into Docker: A Comprehensive Guide for Beginners](https://chandraji.dev/diving-into-docker-a-comprehensive-guide-for-beginners)
 - [Stable and Unstable Sorting: Why Stability Matters?](https://chandraji.dev/stable-and-unstable-sorting-why-stability-matters)
 - [Python Programmer to a Java Developer: Things I Learned](https://chandraji.dev/python-programmer-to-a-java-developer-things-i-learned)
 - [Books I Read in 2021](https://chandraji.dev/books-i-read-in-2021)
 - [Blockchain Fundamentals, Cryptocurrencies and Open Source](https://chandraji.dev/blockchain-fundamentals)
-- [Big Data Open Source Frameworks](https://chandraji.dev/big-data-open-source-frameworks)
 <!-- BLOG-POST-LIST:END -->
 
 #### 📈 My Weekly Stats

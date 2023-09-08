@@ -59,13 +59,12 @@ Often Failing, Always Learning ✌
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 August 2023 - To: 06 September 2023
+From: 31 August 2023 - To: 07 September 2023
 
-JavaScript   1 hr 22 mins    ██████████▒░░░░░░░░░░░░░░   41.37 %
-Markdown     1 hr 21 mins    ██████████▒░░░░░░░░░░░░░░   40.69 %
-Bash         16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
-Java         13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
-Docker       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+Markdown     1 hr 21 mins    ████████████████████░░░░░   80.11 %
+Java         13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.14 %
+Docker       5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
+JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 ```
 
 <!--END_SECTION:waka-->

@@ -59,7 +59,7 @@ Often Failing, Always Learning ✌
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 September 2023 - To: 08 September 2023
+From: 02 September 2023 - To: 09 September 2023
 
 Markdown     1 hr 21 mins    ████████████████████░░░░░   80.66 %
 Java         13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.23 %

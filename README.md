@@ -33,8 +33,6 @@
 <br/>
 <br/>
 
-I enjoy reading books on Mythology, Fiction and Personal Finance and Mangas.
-
 Often Failing, Always Learning ✌
 
 #### 🔖 Random Quote or Fun-Fact

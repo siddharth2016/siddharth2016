@@ -46,11 +46,11 @@ Often Failing, Always Learning ✌
 
 #### 👨‍💻 My Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Diving into Docker: A Comprehensive Guide for Beginners](https://codekaro.hashnode.dev/diving-into-docker-a-comprehensive-guide-for-beginners)
-- [Stable and Unstable Sorting: Why Stability Matters?](https://codekaro.hashnode.dev/stable-and-unstable-sorting-why-stability-matters)
-- [Python Programmer to a Java Developer: Things I Learned](https://codekaro.hashnode.dev/python-programmer-to-a-java-developer-things-i-learned)
-- [Books I Read in 2021](https://codekaro.hashnode.dev/books-i-read-in-2021)
-- [Blockchain Fundamentals, Cryptocurrencies and Open Source](https://codekaro.hashnode.dev/blockchain-fundamentals)
+- [Diving into Docker: A Comprehensive Guide for Beginners](https://chandraji.dev/diving-into-docker-a-comprehensive-guide-for-beginners)
+- [Stable and Unstable Sorting: Why Stability Matters?](https://chandraji.dev/stable-and-unstable-sorting-why-stability-matters)
+- [Python Programmer to a Java Developer: Things I Learned](https://chandraji.dev/python-programmer-to-a-java-developer-things-i-learned)
+- [Books I Read in 2021](https://chandraji.dev/books-i-read-in-2021)
+- [Blockchain Fundamentals, Cryptocurrencies and Open Source](https://chandraji.dev/blockchain-fundamentals)
 <!-- BLOG-POST-LIST:END -->
 
 #### 📈 My Weekly Stats

@@ -38,7 +38,7 @@ Often Failing, Always Learning ✌
 #### 🔖 Random Quote or Fun-Fact
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Before software should be reusable, it should be usable.”— Ralph Johnson  ❞</i>
+<i>❝“I think it is inevitable that people program poorly.  Training will not substantially help matters.  We have to learn to live with it.”— Alan Perlis   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

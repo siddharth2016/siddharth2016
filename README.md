@@ -57,10 +57,10 @@ Often Failing, Always Learning ✌
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 May 2024 - To: 13 May 2024
+From: 07 May 2024 - To: 14 May 2024
 
-HTML         3 mins          ██████████████████████▓░░   91.28 %
-JavaScript   0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 %
+JavaScript   56 mins         ███████████████████████▓░   94.23 %
+HTML         3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
 ```
 
 <!--END_SECTION:waka-->

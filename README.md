@@ -57,11 +57,11 @@ Often Failing, Always Learning ✌
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 May 2024 - To: 29 May 2024
+From: 23 May 2024 - To: 30 May 2024
 
-JavaScript       36 mins         ███████████████░░░░░░░░░░   59.47 %
-Java             24 mins         ██████████░░░░░░░░░░░░░░░   39.34 %
-GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Java             24 mins         ████████████████▓░░░░░░░░   67.13 %
+JavaScript       11 mins         ███████▓░░░░░░░░░░░░░░░░░   30.84 %
+GitIgnore file   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
 ```
 
 <!--END_SECTION:waka-->

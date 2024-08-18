@@ -57,7 +57,7 @@ Often Failing, Always Learning ✌
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 August 2024 - To: 16 August 2024
+From: 10 August 2024 - To: 17 August 2024
 
 Java             1 hr 48 mins    ████████████████████████▒   97.00 %
 JSON             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %

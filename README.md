@@ -57,12 +57,12 @@ Often Failing, Always Learning ✌
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 August 2024 - To: 21 August 2024
+From: 15 August 2024 - To: 22 August 2024
 
-Java             3 hrs 4 mins    ████████████████████████▒   97.56 %
-JSON             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-GitIgnore file   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-XML              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+Java             2 hrs 1 min     ████████████████████████░   96.35 %
+JSON             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+GitIgnore file   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+XML              1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
 ```
 
 <!--END_SECTION:waka-->

@@ -38,7 +38,7 @@ Often Failing, Always Learning ✌
 #### 🔖 Random Quote or Fun-Fact
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Pessimists, we’re told, look at a glass containing 50% air and 50% water and see it as half empty.  Optimists, in contrast, see it as half full.  Engineers, of course, understand the glass is twice as big as it needs to be.”— Bob Lewis   ❞</i>
+<i>❝“On two occasions I have been asked, ‘If you put into the machine wrong figures, will the right answers come out?’  I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.”— Charles Babbage   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

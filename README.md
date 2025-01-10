@@ -57,7 +57,7 @@ Often Failing, Always Learning ✌
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 January 2025 - To: 08 January 2025
+From: 02 January 2025 - To: 09 January 2025
 
 Java   27 mins         █████████████████████████   100.00 %
 ```

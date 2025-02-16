@@ -38,7 +38,7 @@ Often Failing, Always Learning ✌
 #### 🔖 Random Quote or Fun-Fact
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Two years from now, spam will be solved.”— Bill Gates, 2004   ❞</i>
+<i>❝Doug Engelbart invented the first computer mouse in around 1964 which was made of wood.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

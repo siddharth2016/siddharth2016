@@ -15,9 +15,9 @@
 <a href="https://dev.to/siddharth2016">
   <img src="images/dev.svg" alt="Siddharth Chandra's DEV Profile" height="24px" width="24px">
 </a>
-<a href="https://twitter.com/chandrajidev">
+<!-- <a href="https://twitter.com/chandrajidev">
   <img src="https://raw.githubusercontent.com/siddharth2016/siddharth2016/master/images/twitter_color.svg" alt="CodeKaro Twitter Account" height="24px" width="24px">
-</a>
+</a> -->
 <a href="https://www.linkedin.com/in/siddharth-chandra1/">
   <img src="https://raw.githubusercontent.com/siddharth2016/siddharth2016/master/images/linkedin.svg" alt="Siddharth's LinkedIn" width="24px" height="24px">
 </a>

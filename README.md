@@ -33,7 +33,7 @@
 <br/>
 <br/>
 
-Often Failing, Always Learning ✌
+Often Failing.
 
 #### 🔖 Random Quote or Fun-Fact
 <a href="https://github.com/marketplace/actions/quote-readme">

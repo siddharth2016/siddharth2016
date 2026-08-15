@@ -66,7 +66,7 @@ No activity tracked
 
 #### 🌐 My Language Stats
 
-<img alt="Language Stats" style="width:47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth2016&layout=compact&langs_count=6&theme=graywhite&hide=jupyter%20notebook"/>
+<img alt="Language Stats" style="width:47%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=siddharth2016&layout=compact&langs_count=6&theme=graywhite&hide=jupyter%20notebook"/>
 
 #### 🗓 My GitHub Card
-<img alt="Github Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=siddharth2016&show_icons=true&include_all_commits=true&hide_rank=false&hide=contribs">
+<img alt="Github Stats" height="200" src="https://github-stats-extended.vercel.app/api?username=siddharth2016&show_icons=true&include_all_commits=true&hide_rank=false&hide=contribs">

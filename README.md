@@ -44,29 +44,5 @@ Often Failing.
 
 #### ⛄ [Hello Open Source](https://github.com/siddharth2016/hello-open-source#hello-open-source)
 
-#### 👨‍💻 My Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Diving into Docker: A Comprehensive Guide for Beginners](https://chandraji.dev/diving-into-docker-a-comprehensive-guide-for-beginners)
-- [Stable and Unstable Sorting: Why Stability Matters?](https://chandraji.dev/stable-and-unstable-sorting-why-stability-matters)
-- [Python Programmer to a Java Developer: Things I Learned](https://chandraji.dev/python-programmer-to-a-java-developer-things-i-learned)
-- [Books I Read in 2021](https://chandraji.dev/books-i-read-in-2021)
-- [Blockchain Fundamentals, Cryptocurrencies and Open Source](https://chandraji.dev/blockchain-fundamentals)
-<!-- BLOG-POST-LIST:END -->
-
-#### 📈 My Weekly Stats
-<!--START_SECTION:waka-->
-
-```txt
-From: 08 October 2026 - To: 15 October 2026
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-#### 🌐 My Language Stats
-
-<img alt="Language Stats" style="width:47%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=siddharth2016&layout=compact&langs_count=6&theme=graywhite&hide=jupyter%20notebook"/>
-
 #### 🗓 My GitHub Card
 <img alt="Github Stats" height="200" src="https://github-stats-extended.vercel.app/api?username=siddharth2016&show_icons=true&include_all_commits=true&hide_rank=false&hide=contribs">
